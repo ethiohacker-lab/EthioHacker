@@ -1,5 +1,5 @@
 # EthioHacker
-don't Use the tools for ilegal Purpose
+#don't Use the tools for ilegal Purpose
 Grab cam shots from target's phone front camera or PC webcam just sending a link.
 
 
