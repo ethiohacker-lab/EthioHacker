@@ -41,7 +41,7 @@ apt-get -y install php wget unzip
 ```
 git clone https://github.com/ethiohacker-lab/EthioHacker
 cd EthiHacker
-bash camphish.sh
+bash EthiHacker.sh
 ```
 
 ## Clean logs & unnecessary files :
